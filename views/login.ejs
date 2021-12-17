@@ -1,0 +1,31 @@
+<html lang="en">
+<head>
+    <%- include('inc/head.ejs')%> 
+
+</head>
+<body>
+    <input type="text" id="username" name="username" placeholder="Kullanıcı Adınızı Giriniz..">
+    <p id="response"></p>
+    <input type="text" id="password" name="password" placeholder="parola">
+    <input type="submit" value="gonder" id="gonder">
+    <script src="send.js"></script>
+    
+    <script>
+        $('#gonder').click(function(){
+            var username = $("#username").val();
+            var password = $("#password").val();
+            var jsdata = {'username':username,'password':password};
+            send('login',jsdata,function(data){
+                console.log(data);
+                
+               if(data =='password=true'){
+                   alert('Hoşgeldiniz');
+               }
+               else{
+                   alert("Yanlış");
+               }
+            })
+        })
+    </script>
+</body>
+</html>

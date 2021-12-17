@@ -1,0 +1,21 @@
+{
+  "name": "anonamailbeta",
+  "version": "1.0.0",
+  "description": "anonamilbeta",
+  "main": "index.js",
+  "scripts": {
+    "test": "git install ejs mongoose express body-parser dotenv"
+  },
+  "repository": {
+    "type": "git",
+    "url": "anonmail"
+  },
+  "author": "yusufalikaraca0",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "expess": "0.0.1-security",
+    "mongoose": "^6.0.10"
+  }
+}

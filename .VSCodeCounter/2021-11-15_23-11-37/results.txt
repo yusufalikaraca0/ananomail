@@ -1,0 +1,56 @@
+Date : 2021-11-15 23:11:37
+Directory : c:\Users\yusuf\Desktop\anonamailbeta
+Total : 23 files,  1186 codes, 4 comments, 154 blanks, all 1344 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          2 |        488 |          0 |          2 |        490 |
+| JavaScript |          7 |        355 |          4 |         97 |        456 |
+| HTML       |         10 |        309 |          0 |         52 |        361 |
+| XML        |          3 |         26 |          0 |          0 |         26 |
+| Markdown   |          1 |          8 |          0 |          3 |         11 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                          | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                             |         23 |      1,186 |          4 |        154 |      1,344 |
+| .idea                                                         |          3 |         26 |          0 |          0 |         26 |
+| models                                                        |          2 |         33 |          0 |          6 |         39 |
+| public                                                        |          4 |         41 |          1 |          9 |         51 |
+| views                                                         |         10 |        309 |          0 |         52 |        361 |
+| views\inc                                                     |          1 |          5 |          0 |          0 |          5 |
++---------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                      | language   | code       | comment    | blank      | total      |
++---------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\yusuf\Desktop\anonamailbeta\.idea\anonamailbeta.iml  | XML        |         12 |          0 |          0 |         12 |
+| c:\Users\yusuf\Desktop\anonamailbeta\.idea\modules.xml        | XML        |          8 |          0 |          0 |          8 |
+| c:\Users\yusuf\Desktop\anonamailbeta\.idea\vcs.xml            | XML        |          6 |          0 |          0 |          6 |
+| c:\Users\yusuf\Desktop\anonamailbeta\index.js                 | JavaScript |        281 |          3 |         82 |        366 |
+| c:\Users\yusuf\Desktop\anonamailbeta\models\model.js          | JavaScript |         15 |          0 |          3 |         18 |
+| c:\Users\yusuf\Desktop\anonamailbeta\models\users.js          | JavaScript |         18 |          0 |          3 |         21 |
+| c:\Users\yusuf\Desktop\anonamailbeta\package-lock.json        | JSON       |        467 |          0 |          1 |        468 |
+| c:\Users\yusuf\Desktop\anonamailbeta\package.json             | JSON       |         21 |          0 |          1 |         22 |
+| c:\Users\yusuf\Desktop\anonamailbeta\public\deneme.js         | JavaScript |          4 |          0 |          0 |          4 |
+| c:\Users\yusuf\Desktop\anonamailbeta\public\send.js           | JavaScript |         15 |          1 |          0 |         16 |
+| c:\Users\yusuf\Desktop\anonamailbeta\public\sendrequest.js    | JavaScript |          0 |          0 |          6 |          6 |
+| c:\Users\yusuf\Desktop\anonamailbeta\public\usercheck.js      | JavaScript |         22 |          0 |          3 |         25 |
+| c:\Users\yusuf\Desktop\anonamailbeta\readme.md                | Markdown   |          8 |          0 |          3 |         11 |
+| c:\Users\yusuf\Desktop\anonamailbeta\views\deneme.ejs         | HTML       |         32 |          0 |          3 |         35 |
+| c:\Users\yusuf\Desktop\anonamailbeta\views\finduser.ejs       | HTML       |         16 |          0 |          3 |         19 |
+| c:\Users\yusuf\Desktop\anonamailbeta\views\forgotpassword.ejs | HTML       |         35 |          0 |         13 |         48 |
+| c:\Users\yusuf\Desktop\anonamailbeta\views\inc\head.ejs       | HTML       |          5 |          0 |          0 |          5 |
+| c:\Users\yusuf\Desktop\anonamailbeta\views\index.ejs          | HTML       |         63 |          0 |         17 |         80 |
+| c:\Users\yusuf\Desktop\anonamailbeta\views\login.ejs          | HTML       |         28 |          0 |          4 |         32 |
+| c:\Users\yusuf\Desktop\anonamailbeta\views\passwordreset.ejs  | HTML       |         47 |          0 |          4 |         51 |
+| c:\Users\yusuf\Desktop\anonamailbeta\views\register2.ejs      | HTML       |         11 |          0 |          1 |         12 |
+| c:\Users\yusuf\Desktop\anonamailbeta\views\register_2.ejs     | HTML       |         36 |          0 |          5 |         41 |
+| c:\Users\yusuf\Desktop\anonamailbeta\views\registration.ejs   | HTML       |         36 |          0 |          2 |         38 |
+| Total                                                         |            |      1,186 |          4 |        154 |      1,344 |
++---------------------------------------------------------------+------------+------------+------------+------------+------------+
